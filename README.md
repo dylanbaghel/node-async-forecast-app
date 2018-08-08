@@ -6,6 +6,7 @@
 
 * **node app.js -a "Indore"**
 * **node app.js -a="404710"**
+* **node app.js --address="INDORE"**
 * **node app.js -h** (For Help)
 
 
