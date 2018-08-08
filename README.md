@@ -10,4 +10,4 @@
 * **node app.js -h** (For Help)
 
 
-> run npm install to install all dependencies
+> run **npm install** to install all dependencies
