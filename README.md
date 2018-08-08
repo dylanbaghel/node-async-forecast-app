@@ -9,6 +9,5 @@
 * **node app.js --address="INDORE"**
 * **node app.js -h** (For Help)
 
-> Paste Your DARK SKY API KEY IN forecast/forecast.js file
-================================================================
-> run **npm install** to install all dependencies
+* > Paste Your DARK SKY API KEY IN forecast/forecast.js file
+* > run **npm install** to install all dependencies
